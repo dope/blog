@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://joe.com
+
+# Sitemaps
+Sitemap: https://joe.com/sitemap.xml
